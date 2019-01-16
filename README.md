@@ -23,8 +23,7 @@
   
 交互界面 MM.UI
 ----
-[![baidu]](http://baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
+下载地址：[点击下载](https://github.com/573242395/mm-UI/archive/master.zip)  
     
     
     
